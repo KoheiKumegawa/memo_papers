@@ -4,7 +4,7 @@ Amaia Arruabarrena-Aristorena, Maurizio Scaltriti, Memorial Sloan Kettering Canc
 
 ## Motivation
 #### – どんな課題を解決しようとしたか？
-・乳がんにおいて，FOXA1は大多数のERのゲノムへの結合に必要なものであるが，FOXA1点突然変異の機能的結果や腫瘍進展・内分泌抵抗性への影響は未だ分かっていない
+・乳がんにおいて，FOXA1は大多数のERのゲノムへの結合に必要なものであるが，FOXA1点突然変異の機能的結果や腫瘍進展・内分泌抵抗性への影響は未だ分かっていない  
 #### – 既存の研究で不足していた点は？
 ・70%の乳がんはERが発現し，転写因子として細胞増殖と腫瘍進展を担っている  
 ・乳がんにおけるゲノム変異は多くが明らかとなっており，ER+乳がんではPIK3CA変異，HER2+乳がんではERBB2増幅，TNBCではTP53変異とPTEN欠失が同定されている．FOXA1もER+乳がんで高頻度に変異している．  
@@ -15,9 +15,9 @@ Amaia Arruabarrena-Aristorena, Maurizio Scaltriti, Memorial Sloan Kettering Canc
 
 ## Method
 #### – どんな手法を用いたか？
-・MSK-IMPACTのデータ解析
-・細胞株MCF7, T47DのFOXA1変異株，マウス実験
-・ChIP-seq, RNA-seq, ATAC-seq
+・MSK-IMPACTのデータ解析  
+・細胞株MCF7, T47DのFOXA1変異株，マウス実験  
+・ChIP-seq, RNA-seq, ATAC-seq  
 
 #### – なぜその手法で良いか？
 
@@ -31,15 +31,16 @@ Amaia Arruabarrena-Aristorena, Maurizio Scaltriti, Memorial Sloan Kettering Canc
 ・FOXA1 SY242CS Opened New Loci Enriched for the Non-canonical Motif  
 ・FOXA1 SY242CS Promoted Expression of an Alternative Transcriptome
 #### – 新しい知見は何か？
-・FOXA1の変異のホットスポット：Wing2領域とSY242CS(third beta strand)
-・FOXA1変異はアロマターゼ阻害薬の低効果性と関連する
-・Wing2変異はエストロゲン刺激でERのクロマチン結合を増加させ，ERによる転写をクロマチンアクセシビリティを変化させずに促進する
-・SY242CS変異は新しい領域をアクセシブルにして，別のcistrome, transcriptomeを活性化する
-・SY242CS変異は立体構造を変化させて，従来の結合モチーフと別の場所に結合できるようにする
+・FOXA1の変異のホットスポット：Wing2領域とSY242CS(third beta strand)  
+・FOXA1変異はアロマターゼ阻害薬の低効果性と関連する  
+・Wing2変異はエストロゲン刺激でERのクロマチン結合を増加させ，ERによる転写をクロマチンアクセシビリティを変化させずに促進する  
+・SY242CS変異は新しい領域をアクセシブルにして，別のcistrome, transcriptomeを活性化する  
+・SY242CS変異は立体構造を変化させて，従来の結合モチーフと別の場所に結合できるようにする  
 
 ## One Sentence Contribution Summary
-**Arruabarrena-Aristorenaらは乳がんにおけるFOXA1変異の機能的意義を調べるために，MSK-IMPACTから高頻度のFOXA1変異を同定して細胞株で機能解析を行い，2つの変異（Wing2変異とSY242CS変異）が全く逆の機能でがんを進展させることを明らかにした．  
-Arruabarrena-Aristorena et al. analyzed MSK-IMPACT data identifying FOXA1 mutation hotspots and functional analysis to uncover the impact of FOXA1 mutation and found two distinct mutations playing the contrast roles for breast cancer progression and drug resistance**
+**Arruabarrena-Aristorenaらは乳がんにおけるFOXA1変異の機能的意義を調べるために，MSK-IMPACTから高頻度のFOXA1変異を同定して細胞株で機能解析を行い，2つの変異（Wing2変異とSY242CS変異）が全く逆の機能でがんを進展させることを明らかにした．**  
+  
+**Arruabarrena-Aristorena et al. analyzed MSK-IMPACT data identifying FOXA1 mutation hotspots and functional analysis to uncover the impact of FOXA1 mutation and found two distinct mutations playing the contrast roles for breast cancer progression and drug resistance**
 
 ## Keyword
 FOXA1, mutation, cistrome, drug resistance
