@@ -1,4 +1,4 @@
-# [FOXA1 Mutations Reveal Distinct Chromatin Profiles and Influence Therapeutic Response in Breast Cancer](https://doi.org/10.1016/j.ccell.2020.08.003)
+# [FOXA1 Mutations Reveal Distinct Chromatin Profiles and Influence Therapeutic Response in Breast Cancer, Cancer Cell, 2020](https://doi.org/10.1016/j.ccell.2020.08.003)
 ## Author
 Amaia Arruabarrena-Aristorena, Maurizio Scaltriti, Memorial Sloan Kettering Cancer Center
 
@@ -15,13 +15,10 @@ Amaia Arruabarrena-Aristorena, Maurizio Scaltriti, Memorial Sloan Kettering Canc
 
 ## Method
 #### – どんな手法を用いたか？
-・I-SPY2 trial，多施設・phase II・術前化学療法のための臨床試験：  
-・高リスク(MammaPrint High or Ultra-High)早期乳がんに対する新規薬剤VS標準治療(TAC療法)  
-・プライマリエンドポイントは病理学的完全奏功(pCR)  
-・10種類の薬剤系統，合計987患者  
-・210 control [Ctr]; 71 veliparib(**PARPi**)/carboplatin [VC]; 114 neratinib(**Pan-HER2i**) [N]; 93 MK2206(**AKTi**); 106 ganitumab(**IGF1R**); 94 ganetespib(**HSP90i**); 134 trebananib(**ANGi**); 52 TDM1/pertuzumab(**HER2i**) [P]; 44 pertuzumab(**HER2i**); and 69 pembrolizumab(**PD-1i**) [Pembro])  
-・治療前の生検検体に対して，遺伝子発現アレイと逆相タンパクアレイを使用してバイオマーカーを探索  
-・27の遺伝子発現シグネチャを評価  
+・MSK-IMPACTのデータ解析
+・細胞株MCF7, T47DのFOXA1変異株，マウス実験
+・ChIP-seq, RNA-seq, ATAC-seq
+
 #### – なぜその手法で良いか？
 
 ## Insight
@@ -34,23 +31,26 @@ Amaia Arruabarrena-Aristorena, Maurizio Scaltriti, Memorial Sloan Kettering Canc
 ・FOXA1 SY242CS Opened New Loci Enriched for the Non-canonical Motif  
 ・FOXA1 SY242CS Promoted Expression of an Alternative Transcriptome
 #### – 新しい知見は何か？
-・FO
-
-
+・FOXA1の変異のホットスポット：Wing2領域とSY242CS(third beta strand)
+・FOXA1変異はアロマターゼ阻害薬の低効果性と関連する
+・Wing2変異はエストロゲン刺激でERのクロマチン結合を増加させ，ERによる転写をクロマチンアクセシビリティを変化させずに促進する
+・SY242CS変異は新しい領域をアクセシブルにして，別のcistrome, transcriptomeを活性化する
+・SY242CS変異は立体構造を変化させて，従来の結合モチーフと別の場所に結合できるようにする
 
 ## One Sentence Contribution Summary
-**Wolfらはハイリスク早期乳癌にどの術前化学療法を用いればpCRを目指せるか，バイオマーカーを同定するために，I-SPY2コホートの術前生検検体の遺伝子発現解析を行い，5つの新規分類（RPS）を同定した．  
-Wolf et al. did gene expression analysis for pretreatment tumor biopsy samples in I-SPY2 cohort to identify biomarkers predicting the best neoadjuvant therapy for high-risk early breast cancer and determined 5 new classification: Response-predicting subtypes.**
+**Arruabarrena-Aristorenaらは乳がんにおけるFOXA1変異の機能的意義を調べるために，MSK-IMPACTから高頻度のFOXA1変異を同定して細胞株で機能解析を行い，2つの変異（Wing2変異とSY242CS変異）が全く逆の機能でがんを進展させることを明らかにした．  
+Arruabarrena-Aristorena et al. analyzed MSK-IMPACT data identifying FOXA1 mutation hotspots and functional analysis to uncover the impact of FOXA1 mutation and found two distinct mutations playing the contrast roles for breast cancer progression and drug resistance**
 
 ## Keyword
-Breast cancer, subtype, predictive biomarkers
+FOXA1, mutation, cistrome, drug resistance
 
 ## Unknown
 #### – まだ知られていないこと，解決できていないこと
 
 ## Reflection
 #### – 自分の研究に活かせそうなところはあるか
-遺伝子発現ではなく，他の指標は？cistrome, chromatin accessibility
+・重要な事象は臨床検体から引き出し，その機能解析は細胞株を使用して見つける：リバースTR感
+
 #### – 今後引用することがあるか（1-4）
 4
 
