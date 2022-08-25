@@ -8,22 +8,20 @@ Eugen Dhimolea, Constantine S. Mitsiades, Harvard
 
 #### – 既存の研究で不足していた点は？
 ・未治療の腫瘍や再発腫瘍の分子解析データセットは多数存在するが，術前化学療法前中後のゲノムワイドの分子解析によって残存腫瘍の特徴を明らかにする臨床研究はほとんどない  
-・シングルセル解析では，治療抵抗性残存腫瘍
+・シングルセル解析で治療抵抗性残存腫瘍は，治療前の腫瘍とは異なる転写プログラムを獲得することが示されている
 
 
 
 ## Method
 #### – どんな手法を用いたか？
-・MSK-IMPACTのデータ解析  
-・細胞株MCF7, T47DのFOXA1変異株，マウス実験  
-・ChIP-seq, RNA-seq, ATAC-seq  
+
 
 #### – なぜその手法で良いか？
 
 ## Insight
 #### – どんな結果が得られたか？
-・FOXA1 Missense Mutations Were Enriched in Metastatic Tumors and Associated with Worse Outcome to Aromatase Inhibitors  
-・FOXA1 Wing2 Mutations Provided a Growth Advantage under Estrogen Deprivation  
+・Pre-clinical Models of Treatment-Persistent Residual Tumors  
+・Treatment Persistence Is Not Driven by Newly Acquired Mutations or Rare Pre-existing Clones  
 ・FOXA1 Wing2 Mutations Induced an Enhanced Estrogen Response through Increased Occupancy at ER Loci   
 ・FOXA1 Wing2 Mutations Induced an Enhanced Estrogen Response  
 ・FOXA1 SY242CS-Driven Conformational Changes Led to a Non-canonical DNA Binding Motif, Cistrome, and Transcriptome  
