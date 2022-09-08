@@ -1,2 +1,1 @@
-# ReadingPapers
-This is the page for my study
+# my Japanese memo for reading papers
